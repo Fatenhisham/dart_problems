@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+problems are in bin folder , i solve 10 problems (1:9) use ai to generate problems based on concepts that we take (give to it the prombet that send in watsap) , but last problem from link that have 30 problems . 
